@@ -37,5 +37,3 @@ class Calculator:
         if self.isValid(data) and data[1] != 0:
             return data[0]/data[1]
         return False
-
-(Calculator()).add([5,3,'hwllo',3])
