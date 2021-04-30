@@ -19,6 +19,8 @@ $ python3 main.py
 ```bash
 $ python main.py
 ```
+## Preview
+![image](docs/calc.png)
 
 ## Features to Implement
 ---------------------
